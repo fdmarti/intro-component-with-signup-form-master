@@ -1,0 +1,5 @@
+export { default as TextIntroduction } from './TextIntroduction.vue'
+export { default as FormFreeTrial } from './FormFreeTrial.vue'
+export { default as ToastFreeTrial } from './ToastFreeTrial.vue'
+export { default as InputComponent } from './InputComponent.vue'
+export { default as SubmitBtn } from './SubmitBtn.vue'
